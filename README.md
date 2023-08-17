@@ -1,4 +1,4 @@
-# NestJS & MongoDB : Auth module ( common functionalities )
+# NestJS & MongoDB : Push Notification module ( common functionalities )
 
 ## About
 ```bash
