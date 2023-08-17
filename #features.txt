@@ -1,0 +1,2 @@
+0> send notification
+1> send notification with data
